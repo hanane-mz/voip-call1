@@ -5,7 +5,6 @@ interface iVideoContainer{
 }
 import { cn } from "@/lib/utils";
 import { useEffect, useRef } from "react";
-import { Stream } from "stream";
 
 const VideoContainer = ({ stream,isLocalStream , isOnCall} : iVideoContainer) =>{
     const videoRef = useRef<HTMLVideoElement>(null)
