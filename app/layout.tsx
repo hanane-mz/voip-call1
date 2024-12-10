@@ -4,7 +4,6 @@ import "./globals.css";
 import { ClerkProvider } from "@clerk/nextjs";
 import NavBar from "@/components/layout/NavBar";
 import Container from "@/components/layout/Container";
-import { Socket } from "socket.io";
 import SocketProvider from "@/providers/SocketProvide";
 import { cn } from "@/lib/utils";
 
