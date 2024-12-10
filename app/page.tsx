@@ -2,7 +2,6 @@
 import CallNotification from "@/components/CallNotification";
 import ListOlineUsers from "@/components/ListOlineUsers";
 import VideoCall from "@/components/videoCall";
-import Image from "next/image";
 
 export default function Home() {
   return (
