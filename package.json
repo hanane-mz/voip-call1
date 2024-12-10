@@ -24,7 +24,8 @@
     "socket.io": "^4.8.1",
     "socket.io-client": "^4.8.1",
     "tailwind-merge": "^2.5.5",
-    "tailwindcss-animate": "^1.0.7"
+    "tailwindcss-animate": "^1.0.7",
+    "simple-peer": "^9.11.0"
   },
   "devDependencies": {
     "@types/node": "^20",
