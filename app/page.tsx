@@ -10,5 +10,6 @@ export default function Home() {
       <CallNotification/>
       <VideoCall/>
     </div>
+    
   );
 }
